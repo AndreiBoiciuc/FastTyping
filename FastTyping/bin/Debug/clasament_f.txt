@@ -1,0 +1,10 @@
+Andrei		52		Medie
+Andrei		48		Medie
+X		33		Mare
+X		18		Medie
+Victor		18		Mare
+X		18		Mare
+Andrei		12		Mica
+Andrei		6		Mica
+And		6		Medie
+Victor		6		Medie

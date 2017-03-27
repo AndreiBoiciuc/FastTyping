@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FastTyping.Clasament">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Clasament.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.Completat">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAACAAAFCAAACAAAACAAAAAAAAEAAAAQAEAAA=</HashCode>
+      <FileName>Completat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.Despre">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAAiAAAAAAAAAAAAAQAEAAA=</HashCode>
+      <FileName>Despre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.Meniu">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBACAAAABCgIAAQCAACAAAAiAAAACAIAAAAAAACBCKA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.frmClasament">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>frmClasament.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.FrmJoc">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/wAQIhAAACAAARQAAASBQEASAAAEAAQAEECgAQBAAHA=</HashCode>
+      <FileName>FrmJoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.Jucator">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAAAAAAAAAAACAAABAAAAAAEAAAABAAAAEAAAEA=</HashCode>
+      <FileName>Jucator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.Properties.Resources">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAgAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastTyping.Properties.Settings">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

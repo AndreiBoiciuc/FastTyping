@@ -1,0 +1,23 @@
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\bin\Debug\FastTyping.exe
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\bin\Debug\FastTyping.pdb
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.csprojResolveAssemblyReference.cache
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.Meniu.resources
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.Properties.Resources.resources
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.csproj.GenerateResource.Cache
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.exe
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.pdb
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.Despre.resources
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.Completat.resources
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.FrmJoc.resources
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.exe
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.pdb
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.csprojResolveAssemblyReference.cache
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.Completat.resources
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.Despre.resources
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.Meniu.resources
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.FrmJoc.resources
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.Properties.Resources.resources
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\obj\Debug\FastTyping.csproj.GenerateResource.Cache
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\bin\Debug\FastTyping.exe
+D:\faculta\An III sem I\Eu\PIU\piuprbackup\FastTyping\FastTyping\bin\Debug\FastTyping.pdb
+D:\faculta\An III sem I\Eu\PIU\Proiect FastTyping\FastTyping\FastTyping\obj\Debug\FastTyping.frmClasament.resources
